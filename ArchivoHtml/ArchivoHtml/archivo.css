@@ -1,0 +1,8 @@
+body{
+	background-image: url(10.JPG);
+	background-size: cover;
+	color: aliceblue;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+	font-size: 30px;
+	
+}
